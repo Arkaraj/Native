@@ -24,6 +24,6 @@ const styles = StyleSheet.create({
     // alignItems: "center", // secondary
     backgroundColor: colours.secondary,
     // flexWrap: 'wrap',
-    paddingTop: Platform.OS === "android" ? SB.currentHeight : 0,
+    // paddingTop: Platform.OS === "android" ? SB.currentHeight : 0,
   },
 });
